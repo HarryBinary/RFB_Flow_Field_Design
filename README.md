@@ -6,7 +6,7 @@
 <sup>c</sup> Department of Mechanical Engineering, University of Victoria, Victoria, BC, Canada <br/>
 <sup>d</sup> Institute for Integrated Energy Systems, University of Victoria, Victoria, BC, Canada <br/>
 <sup>e</sup> Institute for Advanced Study, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR, China <br/>
-<sup>\*</sup> Corresponding author <br/>
+<sup>\*</sup> Corresponding author: [Prof. T.S. Zhao](https://scholar.google.com/citations?user=0mUWHUQAAAAJ&hl=en), [Prof. N. Djilali](https://scholar.google.ca/citations?user=TcpC3GgAAAAJ&hl=en) <br/>
 <sup>1</sup> These authors contributed equally to this work. <br/>
 
 ## Abstract
