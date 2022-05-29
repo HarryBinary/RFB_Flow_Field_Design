@@ -1,4 +1,4 @@
-# Machine Learning-Assisted Design of Flow Fields for Redox Flow Batteries -- [Energy & Environmental Science 2022 Paper](ttps://doi.org/10.1039/D1EE03224K)
+# Machine Learning-Assisted Design of Flow Fields for Redox Flow Batteries [Paper Link](https://doi.org/10.1039/D1EE03224K)
 **Shuaibin Wan**<sup>a</sup>, **Haoran Jiang**<sup>b,e</sup>, **Zixiao Guo**<sup>a</sup>, **Changxiang He**<sup>a</sup>, **Xiongwei Liang**<sup>a</sup>, **Ned Djilali**<sup>c,d,\*</sup>, **Tianshou Zhao**<sup>a,\*</sup> <br/>
 
 <sup>a</sup> Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR, China <br/>
