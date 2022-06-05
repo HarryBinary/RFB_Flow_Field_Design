@@ -1,1 +1,1 @@
-
+This folder contains 80 promising flow field designs selected from the first-round screening. Each flow field is represented by an binary image, where the channel and rib regions are distinguished by the pixel values of 1 and 0, respectively. 
