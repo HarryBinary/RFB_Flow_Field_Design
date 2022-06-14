@@ -18,5 +18,8 @@ As illustrated in ​Figure 1​, we first develop an end-to-end approach to des
 ![workflow](/docs/workflow.png)
 **Figure 1:** Framework of the machine learning-assisted design of flow fields for redox flow batteries.
 
-## Cite
+## Data availability
+80 promising candidates selected from the first-round screening can be found via [this link](https://github.com/HarryBinary/RFB_Flow_Field_Design/tree/main/result/promising_candidates_80) <br/>
+
+## Cite as
 S. Wan, H. Jiang, Z. Guo, C. He, X. Liang, N. Djilali, and T. Zhao. Energy & Environmental Science, 2022. [[Paper Link](https://doi.org/10.1039/D1EE03224K)] <br/>
